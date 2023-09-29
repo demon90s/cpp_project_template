@@ -1,2 +1,1 @@
-# cpp_project_template
-A c++ project template built by cmake
+提供一个简单的在 windows 或 linux 下的cpp项目模板。
